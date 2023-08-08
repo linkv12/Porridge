@@ -1,6 +1,12 @@
 # VSCODE
 .vscode/
 
+# Rule 1
+# DO NOT incl. Prototype
+# Will stage it here for simple implementation
+.proto/
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
