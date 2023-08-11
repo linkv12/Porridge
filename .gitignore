@@ -2,10 +2,10 @@
 .vscode/
 
 # Rule 1
-# DO NOT incl. Prototype
+# DO NOT incl. Prototype & Experimental Folder
 # Will stage it here for simple implementation
 .proto/
-
+p2p/
 
 
 # Byte-compiled / optimized / DLL files
